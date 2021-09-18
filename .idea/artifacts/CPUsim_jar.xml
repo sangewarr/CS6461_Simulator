@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CPUsim:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CPUsim_jar</output-path>
+    <root id="archive" name="CPUsim.jar">
+      <element id="module-output" name="CPUsim" />
+    </root>
+  </artifact>
+</component>
